@@ -4,7 +4,7 @@
 # 👋 E aí, tudo certo?
 
 Seja bem-vindo(a) ao meu cantinho no GitHub! 😄  
-Me chamo **Arthur**, tenho **16 anos**, sou de **São Paulo/SP** e atualmente estou estudando **TI** no colégio **Nossa Senhora de Fátima Frei Galvão**. 📚💻
+Me chamo **Arthur**, tenho **16 anos**, sou de **São Paulo/SP** e atualmente estou estudando **TI** no colégio **Nossa Senhora de Fátima Frei**. 📚💻
 
 ## 🎶 Sobre mim:
 
